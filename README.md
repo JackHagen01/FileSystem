@@ -2,7 +2,7 @@
 
 ## Overview
 
-A simple file system allowing a user to view superblock and FAT info with diskinfo, view directory contents with disklist, copy a file from the system with diskget, and copy a file into the system with diskput. Made for CSC360: Operating Systems.
+A simple file system allowing a user to view superblock and FAT info with diskinfo, view directory contents with disklist, copy a file from the system with diskget, and copy a file into the system with diskput.
 
 ## Features
 
