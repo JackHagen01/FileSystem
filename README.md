@@ -1,4 +1,4 @@
-# P3: A Simple File System
+# A Simple File System
 
 ## Overview
 
@@ -71,7 +71,7 @@ Run with a disk image file, filename to be copied, filepath with new filename to
 
 ## Author
 
-Jackson Hagen V01029307
+Jackson Hagen
 
 
 
